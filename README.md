@@ -119,15 +119,6 @@ I leverage AI-assisted development to build security infrastructure at unprecede
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaevlad&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=zaevlad&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect
 
 - [GitHub](https://github.com/zaevlad)
