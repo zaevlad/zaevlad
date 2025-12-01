@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Vlad Zae / zaevlad</h1>
+<h1 align="center">⚡ Vlad Zaev / zaevlad</h1>
 
 <p align="center">
   <b>AI x Web3 Security Engineer | Researcher | Builder</b><br>
