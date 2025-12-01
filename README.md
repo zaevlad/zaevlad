@@ -69,13 +69,13 @@ I operate at the intersection of:
 ### 🧪 Projects
 
 #### 🔐 [Lazyauditor](https://lazyaudit.com)
-AI-powered audit assistant — automated vulnerability analysis & contract reasoning.
+Status: Closed beta testing. AI-powered audit assistant — automated vulnerability analysis & contract reasoning.
 
 #### 🐝 [hornetmcp](https://hornetmcp.com)
-Infrastructure for exploit pattern analysis and security intelligence pipelines.
+Status: Closed beta testing. Infrastructure for exploit pattern analysis and security intelligence pipelines.
 
-#### 🎓 [solidityset](somming soon)
-Training framework for mastering Solidity security engineering. Comming soon.
+#### 🎓 [solidityset](https://somming soon)
+Status: comming soon. Training framework for mastering Solidity security engineering. Comming soon.
 
 ---
 
