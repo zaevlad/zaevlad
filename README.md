@@ -73,8 +73,8 @@ Training framework for mastering Solidity security engineering. Comming soon.
 ### 🏆 Experience
 
 - 🧠 Audit competitions:
-  - Code4rena
-  - CodeHawks
+  - [Code4rena](https://code4rena.com/@zaevlad)
+  - [CodeHawks](https://profiles.cyfrin.io/u/vladzaev)
 
 - 🛠 Hands-on:
   - Smart contract auditing
