@@ -127,13 +127,6 @@ I leverage AI-assisted development to build security infrastructure at unprecede
 
 ---
 
-### ☣️ Philosophy
-
-> I don't just audit contracts.  
-> I design systems that hunt vulnerabilities.
-
----
-
 ### 🔮 Current Direction
 
 - AI vulnerability scanners
