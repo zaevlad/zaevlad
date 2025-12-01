@@ -49,14 +49,14 @@ I operate at the intersection of:
 
 ### 🧪 Projects
 
-#### 🔐 Lazyauditor
+#### 🔐 [Lazyauditor](https://lazyaudit.com)
 AI-powered audit assistant — automated vulnerability analysis & contract reasoning.
 
-#### 🐝 hornetmcp
+#### 🐝 [hornetmcp](https://hornetmcp.com)
 Infrastructure for exploit pattern analysis and security intelligence pipelines.
 
-#### 🎓 solidityset
-Training framework for mastering Solidity security engineering.
+#### 🎓 [solidityset](somming soon)
+Training framework for mastering Solidity security engineering. Comming soon.
 
 ---
 
