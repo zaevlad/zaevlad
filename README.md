@@ -94,9 +94,9 @@ Training framework for mastering Solidity security engineering. Comming soon.
 
 ### 🌐 Connect
 
-- GitHub: https://github.com/zaevlad
-- Twitter: https://twitter.com/rightnowin
-- Telegram: https://t.me/zaevlad
+- [GitHub](https://github.com/zaevlad)
+- [Twitter](https://twitter.com/rightnowin)
+- [Telegram](https://t.me/zaevlad)
 
 ---
 
