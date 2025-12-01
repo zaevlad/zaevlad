@@ -74,7 +74,7 @@ Status: Closed beta testing. AI-powered audit assistant — automated vulnerabil
 #### 🐝 [hornetmcp](https://hornetmcp.com)
 Status: Closed beta testing. Infrastructure for exploit pattern analysis and security intelligence pipelines.
 
-#### 🎓 [solidityset](https://somming soon)
+#### 🎓 [solidityset](https://comming soon)
 Status: comming soon. Training framework for mastering Solidity security engineering. Comming soon.
 
 ---
