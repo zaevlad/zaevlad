@@ -20,6 +20,16 @@ I operate at the intersection of:
 
 ---
 
+### 🔥 What I Do
+
+- 🤖 **AI-powered security systems** — building tools that audit smarter, not harder
+- 🧠 **Vulnerability intelligence** — pattern extraction, exploit taxonomy, detection heuristics
+- 🔬 **Smart contract research** — deep protocol analysis, adversarial thinking, edge case hunting
+- ⚡ **AI-assisted engineering** — shipping security infra at 3x speed with vibe coding
+- 🏗️ **Builder-first mindset** — products > papers, systems > reports
+
+---
+
 ### 🔥 Core Focus
 
 - 🤖 AI-powered audit tooling & automation
@@ -44,6 +54,15 @@ I operate at the intersection of:
 ![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-darkgreen?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-CC9C6D?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge)
+
+#### Dev Acceleration
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github)
+![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Dev-FF6B6B?style=for-the-badge)
+
 
 ---
 
@@ -60,13 +79,15 @@ Training framework for mastering Solidity security engineering. Comming soon.
 
 ---
 
-### 🏴 Research Interests
+### 🏴 Research Focus
 
-- AI + exploit detection systems
-- Smart contract vulnerability taxonomy
-- LLM-assisted auditing
-- Heuristic + embedding-based detection
-- Security automation architectures
+**Core thesis:** Security tooling needs to evolve from static checkers to intelligent, context-aware systems.
+
+- 🤖 **AI-native vulnerability detection** — moving beyond regex to semantic understanding
+- 🧠 **LLM-assisted auditing** — augmenting human auditors with AI reasoning
+- 📊 **Exploit intelligence systems** — building taxonomies that learn and adapt
+- 🔬 **Hybrid detection architectures** — combining static analysis, symbolic execution, and LLMs
+- ⚙️ **Security automation infra** — designing scalable, production-grade detection pipelines
 
 ---
 
@@ -77,9 +98,24 @@ Training framework for mastering Solidity security engineering. Comming soon.
   - [CodeHawks](https://profiles.cyfrin.io/u/vladzaev)
 
 - 🛠 Hands-on:
-  - Smart contract auditing
-  - Bug hunting & exploit research
+  - Smart contract security analysis & exploit development
   - AI infrastructure for security tooling
+  - Building production-grade detection systems
+
+---
+
+### ⚡ Vibe Coding Workflow
+
+I leverage AI-assisted development to build security infrastructure at unprecedented speed:
+
+- 🚀 **Rapid prototyping** — turning exploit theories into POCs in hours, not days
+- 🔄 **Intelligent automation** — AI writes boilerplate, I architect the core logic
+- 🧪 **Fast iteration cycles** — test, break, rebuild with AI pair programming
+- 🏗️ **Infrastructure at scale** — building complex detection pipelines 3x faster
+
+**Tools:** Cursor IDE, GitHub Copilot, Claude Code, custom LLM prompts, agentic workflows
+
+> **Philosophy:** AI doesn't replace engineering — it amplifies it. I use it to focus on high-leverage problems while automating the rest.
 
 ---
 
