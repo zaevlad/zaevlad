@@ -72,10 +72,10 @@ I operate at the intersection of:
 Status: Closed beta testing. AI-powered audit assistant — automated vulnerability analysis & contract reasoning.
 
 #### 🐝 [hornetmcp](https://hornetmcp.com)
-Status: Closed beta testing. Infrastructure for exploit pattern analysis and security intelligence pipelines.
+Infrastructure for exploit pattern analysis and security intelligence pipelines.
 
 #### 🎓 [solidityset](https://solidityset.ru/)
-Status: comming soon. Training framework for mastering Solidity security engineering. Comming soon.
+Training framework for mastering Solidity security engineering. Comming soon.
 
 ---
 
