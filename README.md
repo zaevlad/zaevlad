@@ -54,28 +54,41 @@ I operate at the intersection of:
 ![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-darkgreen?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-CC9C6D?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge)
+
+#### AI / Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+#### Backend / Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 #### Dev Acceleration
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github)
 ![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Dev-FF6B6B?style=for-the-badge)
-
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-CC9C6D?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge)
 
 ---
 
 ### 🧪 Projects
 
 #### 🔐 [Lazyauditor](https://lazyaudit.com)
-Status: Closed beta testing. AI-powered audit assistant — automated vulnerability analysis & contract reasoning.
+Status: Closed beta testing. LazyAudit is a smart second pilot for smart contract auditing: it automatically breaks the repository down into a tree of functions and events, suggests parallels with real-world vulnerabilities, and holds a focused conversation about every piece of code—so you reach decisions faster instead of drowning in routine.
 
 #### 🐝 [hornetmcp](https://hornetmcp.com)
-Infrastructure for exploit pattern analysis and security intelligence pipelines.
+HornetMCP is specialized search across a catalog of known vulnerabilities in the Solidity ecosystem, with natural-language support. Integration via API or MCP means you don’t have to duplicate in-house knowledge: the database is maintained centrally, while you plug it into your own workflows.
 
 #### 🎓 [solidityset](https://solidityset.ru/)
-Training framework for mastering Solidity security engineering. Comming soon.
+SoliditySet (Solidity Academy) is a compact online platform for learning Solidity: the course is organized into modules, each containing lessons with explanatory text and walkthroughs, alongside ready-made smart contract examples so you can see what real, runnable code looks like—not just definitions and rules.
+
+#### ⚡ [vulnflow-audit](https://github.com/zaevlad/vulnflow-audit)
+VulnFlow is your Solidity audit builder: on the canvas you chain together agents, YAML-rule checks, memory blocks, and Python logic, connect protocol documentation and external APIs, and run it all as a single reproducible scenario. It runs locally and works with both cloud and local models so you spend your budget on meaningful steps instead of manual copy-paste between chat windows.
 
 ---
 
