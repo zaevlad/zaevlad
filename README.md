@@ -1,46 +1,69 @@
 <h1 align="center">⚡ Hey, I'm Vlad!</h1>
 
 <p align="center">
-  <b>AI x Web3 Security Engineer | Researcher | Builder</b><br>
-  <i>Building vulnerability intelligence systems. Not just finding bugs — engineering detection.</i>
+  <b>Technical AI Product Builder & Systems Designer</b><br>
+  <i>Turning complex expert workflows into practical AI-native products.</i>
+</p>
+
+<p align="center">
+  Product Strategy • AI Systems Architecture • LLM Applications • RAG • Agentic Workflows • Engineering
 </p>
 
 ---
 
-### 🧠 Who am I?
+### 🧠 What I Build
 
-I’m an AI-assisted Web3 Security Engineer focused on:
-- AI-driven vulnerability analysis
-- Pattern-based exploit detection
-- Smart contract security automation
-- Building security systems, not just reports
+I design and build AI-native products for complex professional workflows.
 
-I operate at the intersection of:
-> **Blockchain Security × AI Engineering × Research Systems**
+My work combines:
 
----
+- **Product discovery** — identifying high-value problems and where AI can create measurable value
+- **AI product design** — turning expert workflows into useful, trustworthy user experiences
+- **AI systems architecture** — combining LLMs, retrieval, tools, agents, deterministic workflows, and human oversight
+- **Engineering execution** — building working MVPs and the core systems behind them
 
-### 🔥 What I Do
-
-- 🤖 **AI-powered security systems** — building tools that audit smarter, not harder
-- 🧠 **Vulnerability intelligence** — pattern extraction, exploit taxonomy, detection heuristics
-- 🔬 **Smart contract research** — deep protocol analysis, adversarial thinking, edge case hunting
-- ⚡ **AI-assisted engineering** — shipping security infra at 3x speed with vibe coding
-- 🏗️ **Builder-first mindset** — products > papers, systems > reports
+My domain background is **smart contract security**, where I spent 4+ years working with adversarial systems, complex technical workflows, and high-cost mistakes.
 
 ---
 
-### 🔥 Core Focus
+### 🎯 Product & Systems Approach
 
-- 🤖 AI-powered audit tooling & automation
-- 🔬 Smart contract vulnerability research
-- 🧠 Pattern mining & exploit intelligence
-- ⚔️ Adversarial analysis mindset
-- 🚀 Builder-first, research-second, founder-thinking
+When designing an AI product, I focus on:
+
+1. **The real user problem** — what is difficult, repetitive, slow, or error-prone today?
+2. **The workflow** — where should AI assist, automate, recommend, or stay out of the way?
+3. **The right architecture** — RAG, long context, deterministic workflows, agents, tools, or a combination
+4. **Trust and control** — how users verify outputs and remain in control of important decisions
+5. **Product constraints** — quality, latency, cost, reliability, security, and maintainability
+6. **The MVP** — the smallest useful product that can validate the core hypothesis
+
+I prefer deterministic workflows when autonomy adds little value, and use agents when exploration, dynamic planning, or tool selection genuinely improves the outcome.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technical Stack
+
+I design AI products end-to-end and can implement the core systems behind them.
+
+#### AI / LLM Systems
+![LLM](https://img.shields.io/badge/LLM-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-darkgreen?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
+#### Backend / Data
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+#### AI / Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 #### Web3 / Security
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
@@ -48,47 +71,71 @@ I operate at the intersection of:
 ![Slither](https://img.shields.io/badge/Slither-purple?style=for-the-badge)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge)
 
-#### AI / Infra
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![LLM](https://img.shields.io/badge/LLM-black?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-6A0DAD?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-darkgreen?style=for-the-badge)
-![VectorDB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
-
-#### AI / Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-#### Backend / Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-#### Dev Acceleration
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github)
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Dev-FF6B6B?style=for-the-badge)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-CC9C6D?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge)
+**AI-assisted development:** Cursor, Claude Code, GitHub Copilot, OpenRouter, and local LLM workflows.
 
 ---
 
-### 🧪 Projects
+### 🚀 Selected Products
 
 #### 🔐 [Lazyauditor](https://lazyaudit.com)
-Status: Closed beta testing. LazyAudit is a smart second pilot for smart contract auditing: it automatically breaks the repository down into a tree of functions and events, suggests parallels with real-world vulnerabilities, and holds a focused conversation about every piece of code—so you reach decisions faster instead of drowning in routine.
+
+**AI audit copilot for smart contract security**
+
+**Problem:** Smart contract auditors spend significant time navigating large repositories, building mental models, and connecting code with known vulnerability patterns.
+
+**Product approach:** LazyAudit breaks a repository into functions and events, surfaces relevant real-world vulnerability parallels, and creates focused conversations around individual pieces of code.
+
+**Why AI:** The product combines structured code context, vulnerability knowledge, and interactive analysis to help experts reach decisions faster without replacing their judgment.
+
+**Status:** Closed beta testing
+
+---
 
 #### 🐝 [hornetmcp](https://hornetmcp.com)
-HornetMCP is specialized search across a catalog of known vulnerabilities in the Solidity ecosystem, with natural-language support. Integration via API or MCP means you don’t have to duplicate in-house knowledge: the database is maintained centrally, while you plug it into your own workflows.
 
-#### 🎓 [solidityset](https://solidityset.ru/)
-SoliditySet (Solidity Academy) is a compact online platform for learning Solidity: the course is organized into modules, each containing lessons with explanatory text and walkthroughs, alongside ready-made smart contract examples so you can see what real, runnable code looks like—not just definitions and rules.
+**Vulnerability intelligence infrastructure for AI workflows**
+
+**Problem:** Security knowledge is fragmented across audit reports, competitions, incident analyses, and private datasets. Teams repeatedly recreate or duplicate this knowledge.
+
+**Product approach:** A centrally maintained catalog of known Solidity vulnerabilities with natural-language search and integration through API or MCP.
+
+**Why this architecture:**
+- semantic retrieval for finding relevant vulnerability patterns;
+- API and MCP access for integration into existing tools and AI workflows;
+- centralized knowledge maintenance instead of duplicated in-house datasets;
+- reusable intelligence rather than a static document collection.
+
+**Product question:** How can expert security knowledge become shared, composable infrastructure?
+
+---
 
 #### ⚡ [vulnflow-audit](https://github.com/zaevlad/vulnflow-audit)
-VulnFlow is your Solidity audit builder: on the canvas you chain together agents, YAML-rule checks, memory blocks, and Python logic, connect protocol documentation and external APIs, and run it all as a single reproducible scenario. It runs locally and works with both cloud and local models so you spend your budget on meaningful steps instead of manual copy-paste between chat windows.
+
+**Visual builder for reproducible AI security workflows**
+
+**Problem:** Complex AI-assisted audits often require repeated manual work across chat windows, scripts, rules, documentation, APIs, and different models.
+
+**Product approach:** A visual canvas where users combine AI agents, YAML-rule checks, memory blocks, Python logic, protocol documentation, and external APIs into reproducible audit scenarios.
+
+**Key product decisions:**
+- visual workflows instead of hidden prompt chains;
+- reproducibility instead of one-off chat sessions;
+- support for both cloud and local models;
+- explicit control over the steps where AI is used.
+
+**Product question:** How can expert AI workflows become transparent, reusable, and easier to improve?
+
+---
+
+#### 🎓 [solidityset](https://solidityset.ru/)
+
+**Practical learning platform for Solidity**
+
+**Problem:** Many learning resources explain concepts but provide too little connection to real, runnable code and practical workflows.
+
+**Product approach:** A compact modular learning experience combining explanations, walkthroughs, and ready-to-run smart contract examples.
+
+**Focus:** Reducing the gap between understanding a concept and applying it in code.
 
 ---
 
@@ -117,18 +164,19 @@ VulnFlow is your Solidity audit builder: on the canvas you chain together agents
 
 ---
 
-### ⚡ Vibe Coding Workflow
+### ⚡ AI-Assisted Product Development
 
-I leverage AI-assisted development to build security infrastructure at unprecedented speed:
+I use AI-assisted engineering to prototype, validate, and iterate on product ideas quickly while retaining ownership of:
 
-- 🚀 **Rapid prototyping** — turning exploit theories into POCs in hours, not days
-- 🔄 **Intelligent automation** — AI writes boilerplate, I architect the core logic
-- 🧪 **Fast iteration cycles** — test, break, rebuild with AI pair programming
-- 🏗️ **Infrastructure at scale** — building complex detection pipelines 3x faster
+- product decisions;
+- user workflows;
+- system architecture;
+- technical trade-offs;
+- quality and reliability.
 
-**Tools:** Cursor IDE, GitHub Copilot, Claude Code, custom LLM prompts, agentic workflows
+AI accelerates implementation so I can spend more time on high-leverage product and systems decisions.
 
-> **Philosophy:** AI doesn't replace engineering — it amplifies it. I use it to focus on high-leverage problems while automating the rest.
+**Tools:** Cursor IDE, GitHub Copilot, Claude Code, OpenRouter, custom LLM prompts, and local-model workflows.
 
 ---
 
@@ -142,13 +190,15 @@ I leverage AI-assisted development to build security infrastructure at unprecede
 
 ### 🔮 Current Direction
 
-- AI vulnerability scanners
-- Detection pipeline architecture
-- LLM audit copilots
-- Research into exploit patterns
+- AI-native products for professional and expert workflows
+- Knowledge systems and retrieval products
+- Agentic systems with explicit control and reproducibility
+- AI interfaces designed around tasks rather than generic chat
+- Turning domain knowledge into reusable AI infrastructure
+- Product architecture across quality, cost, latency, and trust
 
 ---
 
 <p align="center">
-  <i>Builder mindset. Research depth. Engineer execution.</i>
+  <i>Product thinking. Systems design. Builder execution.</i>
 </p>
